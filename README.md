@@ -18,9 +18,9 @@
 - Page Object Model
 
 ## Структура проекта
-conftest.py # Настройка драйвера
-requirements.txt # Зависимости
-README.md # Описание проекта
+conftest.py # Настройка драйвера  
+requirements.txt # Зависимости  
+README.md # Описание проекта  
 
 pages/
 - base_page.py # Базовый класс для всех страниц
